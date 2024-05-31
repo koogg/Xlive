@@ -225,9 +225,9 @@ http://143.244.60.30/TBS/index.m3u8
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/TNT.png" group-title="国际频道",TNT
 http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ANIMAX.png" group-title="国际频道",TNT
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ANIMAX.png" group-title="国际频道",ANIMAX
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ARIRANGTV.png" group-title="国际频道",TNT
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ARIRANGTV.png" group-title="国际频道",ARIRANGTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #NewTV/15个频道

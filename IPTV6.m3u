@@ -35,26 +35,20 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="A17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视高清",CCTV-17 农业农村
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视高清",CGTN英语
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视高清",CGTN记录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
-
-#数字高清
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字高清",CHC影迷电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字高清",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字高清",黑莓电影
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="数字高清",东森电影
-https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://live.fanmingming.com/tv/緯來電影.png" group-title="数字高清",緯來電影
-https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-#EXTINF:-1 tvg-id="美亚電影" tvg-name="美亚電影" tvg-logo="https://live.fanmingming.com/tv/美亚電影.png" group-title="数字高清",美亚電影
-https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+http://livear.cgtn.com/1000a/prog_index.m3u8
 
 #卫视高清
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
@@ -73,8 +67,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/in
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="B08" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视高清",东南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="B09" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视高清",甘肃卫视
-http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="B10" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视高清",广东卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="B11" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视高清",广西卫视
@@ -119,6 +111,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN7105BESTVSMGSMG9/inde
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1344BESTVSMGSMG9/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="B40" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视高清",厦门卫视
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+#EXTINF:-1 tvg-id="B09" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视高清",甘肃卫视
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="B31" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视高清",西藏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="B32" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视高清",内蒙古卫视
@@ -151,6 +145,22 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-name="Aghapy Kids" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="少儿/动画",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+
+#数字高清
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字高清",CHC影迷电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字高清",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字高清",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="数字高清",东森电影
+https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://live.fanmingming.com/tv/緯來電影.png" group-title="数字高清",緯來電影
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 tvg-id="美亚電影" tvg-name="美亚電影" tvg-logo="https://live.fanmingming.com/tv/美亚電影.png" group-title="数字高清",美亚電影
+https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 
 #国际频道IPV4
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际频道IPV4",凤凰中文

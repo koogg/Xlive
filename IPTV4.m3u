@@ -4,7 +4,6 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视高清",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://rqd.mytvh.top:10287/stream/channelid/1651179936?ticket=7b49edddd4da9e73727e4af3d3851b979bddf51d&profile=pass
 https://z88.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 https://z88.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
@@ -32,7 +31,6 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://z88.ubtvfans.com/live/rx1/2826/d67e1463762a9812875a58ce0777214a/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视高清",CCTV-15 音乐
 https://z88.ubtvfans.com/live/rx1/215/f205393253508a0862e35601340344ef/index.m3u8
-
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视高清",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视高清",江苏卫视

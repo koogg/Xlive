@@ -157,12 +157,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字高清",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="数字高清",东森电影
-https://z88.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://live.fanmingming.com/tv/緯來電影.png" group-title="数字高清",緯來電影
-https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-#EXTINF:-1 tvg-id="美亚電影" tvg-name="美亚電影" tvg-logo="https://live.fanmingming.com/tv/美亚電影.png" group-title="数字高清",美亚電影
-https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 
 #国际频道IPV4
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际频道IPV4",凤凰中文

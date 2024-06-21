@@ -157,91 +157,37 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1,group-title="电影频道",大吉大利影院
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",大吉大利影院
 https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1,group-title="电影频道",吃米滴虫
-http://159.75.85.63:35455/douyu/315457
-#EXTINF:-1,group-title="电影频道",冰冰经典
-http://159.75.85.63:35455/douyu/74374
-#EXTINF:-1,group-title="电影频道",星爷影院
-http://159.75.85.63:35455/douyu/508118
-#EXTINF:-1,group-title="电影频道",凌儿影院
-http://159.75.85.63:35455/douyu/1377142
-#EXTINF:-1,group-title="电影频道",麓山迷踪
-http://159.75.85.63:35455/douyu/4505431
-#EXTINF:-1,group-title="电影频道",瑶瑶恐怖
-http://159.75.85.63:35455/douyu/2935323
-#EXTINF:-1,group-title="电影频道",怡寶影院
-http://159.75.85.63:35455/douyu/434971
-#EXTINF:-1,group-title="电影频道",小黛兮影
-http://159.75.85.63:35455/douyu/11553944
-#EXTINF:-1,group-title="电影频道",萌小鬼片
-http://159.75.85.63:35455/douyu/3928
-#EXTINF:-1,group-title="电影频道",神乐影剧
-http://159.75.85.63:35455/douyu/122402
-#EXTINF:-1,group-title="电影频道",可乐影院
-http://159.75.85.63:35455/douyu/20415
-#EXTINF:-1,group-title="电影频道",小宇60帧
-http://159.75.85.63:35455/douyu/323876
-#EXTINF:-1,group-title="电影频道",恐怖惊悚
-http://159.75.85.63:35455/douyu/96577
-#EXTINF:-1,group-title="电影频道",電影劇場
-http://159.75.85.63:35455/douyu/7575350
-#EXTINF:-1,group-title="电影频道",豆瓣高分
-http://159.75.85.63:35455/douyu/8770422
-#EXTINF:-1,group-title="电影频道",花卷陪看
-http://159.75.85.63:35455/douyu/52787
-#EXTINF:-1,group-title="电影频道",漫威剧情
-http://159.75.85.63:35455/douyu/6140589
-#EXTINF:-1,group-title="电影频道",霍格沃茨
-http://159.75.85.63:35455/douyu/8814650
-#EXTINF:-1,group-title="电影频道",鱼宝恐怖
-http://159.75.85.63:35455/douyu/1165374
-#EXTINF:-1,group-title="电影频道",吃奶滴虫
-http://159.75.85.63:35455/douyu/263824
-#EXTINF:-1,group-title="电影频道",变种人片
-http://159.75.85.63:35455/douyu/9651304
-#EXTINF:-1,group-title="电影频道",喜剧电影
-http://159.75.85.63:35455/douyu/9292492
-#EXTINF:-1,group-title="电影频道",女神电影
-http://159.75.85.63:35455/douyu/747764
-#EXTINF:-1,group-title="电影频道",避风影院
-http://159.75.85.63:35455/douyu/9826611
-#EXTINF:-1,group-title="电影频道",欧美大片
-http://159.75.85.63:35455/douyu/2793084
-#EXTINF:-1,group-title="电影频道",贝爷max
-http://159.75.85.63:35455/douyu/4332
-#EXTINF:-1,group-title="电影频道",贝爷影厅
-http://159.75.85.63:35455/douyu/252802
-#EXTINF:-1,group-title="电影频道",凌儿影院
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",凌儿影院
 http://maomao.kandiantv.cn/douyu1.php?id=1377142
-#EXTINF:-1,group-title="电影频道",小宇60帧
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",小宇60帧
 http://maomao.kandiantv.cn/douyu1.php?id=323876
-#EXTINF:-1,group-title="电影频道",恐怖惊悚
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",恐怖惊悚
 http://maomao.kandiantv.cn/douyu1.php?id=96577
-#EXTINF:-1,group-title="电影频道",電影劇場
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",電影劇場
 http://maomao.kandiantv.cn/douyu1.php?id=7575350
-#EXTINF:-1,group-title="电影频道",豆瓣高分
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",豆瓣高分
 http://maomao.kandiantv.cn/douyu1.php?id=8770422
-#EXTINF:-1,group-title="电影频道",花卷陪看
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",花卷陪看
 http://maomao.kandiantv.cn/douyu1.php?id=52787
-#EXTINF:-1,group-title="电影频道",漫威剧情
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",漫威剧情
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
-#EXTINF:-1,group-title="电影频道",霍格沃茨
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",霍格沃茨
 http://maomao.kandiantv.cn/douyu1.php?id=8814650
-#EXTINF:-1,group-title="电影频道",鱼宝恐怖
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",鱼宝恐怖
 http://maomao.kandiantv.cn/douyu1.php?id=1165374
-#EXTINF:-1,group-title="电影频道",吃奶滴虫
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",吃奶滴虫
 http://maomao.kandiantv.cn/douyu1.php?id=263824
-#EXTINF:-1,group-title="电影频道",变种人片
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",变种人片
 http://maomao.kandiantv.cn/douyu1.php?id=9651304
-#EXTINF:-1,group-title="电影频道",喜剧电影
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",喜剧电影
 http://maomao.kandiantv.cn/douyu1.php?id=9292492
-#EXTINF:-1,group-title="电影频道",女神电影
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",女神电影
 http://maomao.kandiantv.cn/douyu1.php?id=747764
-#EXTINF:-1,group-title="电影频道",欧美大片
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",欧美大片
 http://maomao.kandiantv.cn/douyu1.php?id=2793084
-#EXTINF:-1,group-title="电影频道",贝爷影厅
+#EXTINF:-1,tv-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/dypd.png" group-title="电影频道",贝爷影厅
 http://maomao.kandiantv.cn/douyu1.php?id=252802
 
 #国际频道IPV4

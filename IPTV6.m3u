@@ -118,7 +118,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/in
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿/动画",优漫卡通
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿/动画",哈哈炫动
-http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿/动画",卡酷少儿
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="少儿/动画",嘉佳卡通
@@ -129,12 +129,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://live.fanmingming.com/tv/ANIMAX.png" group-title="少儿/动画",ANIMAX
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Toonami" tvg-name="Toonami" tvg-logo="https://i.imgur.com/U7qh4yF.png" group-title="少儿/动画",Toonami
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" tvg-logo="https://live.fanmingming.com/tv/CartoonNetwork.png" group-title="少儿/动画",CartoonNetwork
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="PokemonKids" tvg-name="PokemonKids" tvg-logo="https://live.fanmingming.com/tv/PokemonKids.png" group-title="少儿/动画",PokemonKids
-https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-name="Aghapy Kids" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="少儿/动画",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 
@@ -191,6 +187,8 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ABANEWSLIVE.png" group-title="国际频道IPV4",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://live.fanmingming.com/tv/BBC.png" group-title="国际频道IPV4",BBC
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-id="Live Now FOX" tvg-name="Live Now FOX" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png"group-title="国际频道IPV4",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际频道IPV4",NHK World
@@ -216,13 +214,9 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="CBN News" tvg-name="CBN News" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/cbnnews.png" group-title="国际频道IPV4",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://live.fanmingming.com/tv/AMC.png" group-title="国际频道IPV4",AMC
-http://170.254.18.106/AMC/index.m3u8
+http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/TBS.png" group-title="国际频道IPV4",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-id="Star" tvg-name="Star" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/StarChannel.png" group-title="国际频道IPV4",Star
-http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/TNT.png" group-title="国际频道IPV4",TNT
-http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://raw.githubusercontent.com/koogg/Xlive/main/TVlogo/ARIRANGTV.png" group-title="国际频道IPV4",ARIRANGTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
